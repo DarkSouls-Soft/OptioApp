@@ -62,19 +62,19 @@ The key column is **`<CLOSE>`**, which is used to estimate returns and volatilit
 
 ## Screenshots
 
-Place screenshots in `docs/images/` and update the links below.
+## Screenshots
 
-- `docs/images/options-tab.png`
-- `docs/images/monte-carlo-tab.png`
-- `docs/images/help-tab.png`
-- `docs/images/result-example.png`
-
-Example section:
-
-```md
+### Options tab
 ![Options tab](docs/images/options-tab.png)
+
+### Monte Carlo tab
 ![Monte Carlo tab](docs/images/monte-carlo-tab.png)
-```
+
+### Help tab
+![Help tab](docs/images/help-tab.png)
+
+### Example result
+![Example result](docs/images/result-example.png)
 
 ## Running on NixOS
 
