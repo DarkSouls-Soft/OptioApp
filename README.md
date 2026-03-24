@@ -62,8 +62,6 @@ The key column is **`<CLOSE>`**, which is used to estimate returns and volatilit
 
 ## Screenshots
 
-## Screenshots
-
 ### Options tab
 ![Options tab](docs/images/options-tab.png)
 
